@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySparkProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySparkProject_jar</output-path>
+    <root id="archive" name="MySparkProject.jar">
+      <element id="module-output" name="MySparkProject" />
+      <element id="extracted-dir" path="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.0/scala-reflect-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.0/scala-library-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
